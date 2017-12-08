@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gen"
+            android:icon="@drawable/ic_menu_gen"
+            android:title="@string/side_nav_gen" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_menu_fav"
+            android:title="@string/side_nav_fav" />
+    </group>
+
+    <item android:title="@string/side_nav_others">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_about"
+                android:title="@string/side_nav_about" />
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/ic_menu_feedback"
+                android:title="@string/side_nav_feedback" />
+            <item
+                android:id="@+id/nav_git"
+                android:icon="@drawable/ic_menu_github"
+                android:title="@string/side_nav_github" />
+            <item
+                android:id="@+id/nav_quit"
+                android:icon="@drawable/ic_menu_quit"
+                android:title="@string/side_nav_quit" />
+        </menu>
+    </item>
+
+</menu>

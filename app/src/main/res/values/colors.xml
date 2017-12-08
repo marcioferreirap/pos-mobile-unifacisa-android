@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#fdf8e4</color>
+    <color name="rock">#563F39</color>
+    <color name="leather">#9D6153</color>
+    <color name="akaroa">#d5b5a3</color>
+    <color name="diSerria">#DE9968</color>
+    <color name="flamePea">#DC6832</color>
+    <color name="slateMoreGray">#6C7E8D</color>
+    <color name="slateGray">#758694</color>
+</resources>
